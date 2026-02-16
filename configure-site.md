@@ -1,5 +1,5 @@
 ---
-title: "Configure site"
+title: "Resume"
 ---
 
 Site-wide settings are in the `_config.yml` file. The configuration file for this sample website looks like this:
