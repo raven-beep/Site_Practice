@@ -4,5 +4,4 @@ theme: Minima
 header_pages:
   - index.md
   - resume.md
-  - configure-site.md
   - resources.md
