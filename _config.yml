@@ -1,5 +1,5 @@
-title: Example site title 
-description: A short description of the site
+title: Sample Portfolio 
+description: A pretend portfolio page for my work
 theme: minima
 header_pages:
   - index.md
