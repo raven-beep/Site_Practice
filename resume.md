@@ -12,6 +12,10 @@ title: "Resume"
 ##***Work Experience 1***
 <br> 
 **Place of Work** *Location info*
+> maybe list soemthing here
+> how about here
+> 1. nd
+> 2. blah
 
 Additional settings for each page are at the beginning of the corresponding file, in a section referred to as the _yaml front matter_. Here's the front matter for this page:
 
