@@ -13,7 +13,9 @@ title: "Resume"
 details about the degree.
 <br>
 *Date Range*
+
 ___
+
 ## WORK EXPERIENCE
 
 ***Work Title 1,*** *Place of Work, Location*
