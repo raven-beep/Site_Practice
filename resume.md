@@ -2,19 +2,19 @@
 title: "Resume"
 ---
 
-### Statement of Purpose
+## Statement of Purpose
 
 [Excerpt that is my statment of purpose].
 
 ***
-### ACADEMIC HISTORY
+## ACADEMIC HISTORY
 ***Degree,*** *School, Location*
 <br>
 details about the degree.
 <br>
 *Date Range*
 ___
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
 ***Work Title 1,*** *Place of Work, Location*
 <br> 
