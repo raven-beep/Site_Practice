@@ -12,8 +12,8 @@ title: "Resume"
 ##***Work Experience 1***
 <br> 
 **Place of Work** *Location info*
-> -Accomplishment 1
-> -Accomplishment 2
+> - Accomplishment 1
+> - Accomplishment 2
 *Date Range of beign there
 
 ___
