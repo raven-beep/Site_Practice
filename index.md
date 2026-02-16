@@ -21,12 +21,3 @@ Webpages can be written in _HTML_ or _Markdown_. This example uses Markdown, whi
 
 Each Markdown and html file in your repository becomes a web page, but pages only appear in the navigation menu if specified in the configuration file. See [Configuring your site](configure-site.md) for more information about the website theme and page titles. 
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li>
-      <span class="post-date">{{ post.date | date: "%B %e, %Y" }}</span>
-      &raquo;
-      <a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
