@@ -6,16 +6,17 @@ title: "Resume"
 
 [Excerpt that is my statment of purpose].
 
-
+***
 ### Work Experience 
 
 ##***Work Experience 1***
 <br> 
 **Place of Work** *Location info*
-> maybe list soemthing here
-> how about here
-> 1. nd
-> 2. blah
+> -Accomplishment 1
+> -Accomplishment 2
+*Date Range of beign there
+
+___
 
 Additional settings for each page are at the beginning of the corresponding file, in a section referred to as the _yaml front matter_. Here's the front matter for this page:
 
