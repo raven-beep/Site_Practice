@@ -7,14 +7,21 @@ title: "Resume"
 [Excerpt that is my statment of purpose].
 
 ***
-### Work Experience 
+### ACADEMIC HISTORY
+***Degree,*** *School, Location*
+<br>
+details about the degree.
+<br>
+*Date Range*
+___
+### WORK EXPERIENCE
 
-##***Work Experience 1***
+***Work Title 1,*** *Place of Work, Location*
 <br> 
-**Place of Work** *Location info*
-> - Accomplishment 1
-> - Accomplishment 2
-*Date Range of beign there
+- Accomplishment 1
+- Accomplishment 2
+<br>
+*Date Range of being there*
 
 ___
 
