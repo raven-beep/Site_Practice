@@ -1,6 +1,6 @@
 title: Sample Portfolio 
 description: A pretend portfolio page for my work
-theme: Architect
+theme: Minima
 header_pages:
   - index.md
   - resume.md
