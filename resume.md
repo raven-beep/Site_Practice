@@ -16,7 +16,7 @@ details about the degree.
 
 ___
 
-**WORK EXPERIENCE**
+#### WORK EXPERIENCE
 
 ***Work Title 1,*** *Place of Work, Location*
 <br> 
