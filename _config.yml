@@ -3,5 +3,6 @@ description: A pretend portfolio page for my work
 theme: Architect
 header_pages:
   - index.md
+  - resume.md
   - configure-site.md
   - resources.md
