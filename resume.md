@@ -7,7 +7,7 @@ title: "Resume"
 [Excerpt that is my statment of purpose].
 
 ***
-## ACADEMIC HISTORY
+#### ACADEMIC HISTORY
 ***Degree,*** *School, Location*
 <br>
 details about the degree.
@@ -16,7 +16,7 @@ details about the degree.
 
 ___
 
-## WORK EXPERIENCE
+**WORK EXPERIENCE**
 
 ***Work Title 1,*** *Place of Work, Location*
 <br> 
