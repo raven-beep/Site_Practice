@@ -2,8 +2,14 @@
 title: Resources
 ---
 
-Links that might be useful as you develop your site
+<h1>{{ page.title }}</h1>
 
-- [Markdown syntax](https://www.markdownguide.org/cheat-sheet/)
-- [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages) documentation
-- [YAML front matter](https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter) from GitHub Pages documentation
+<ul class="posts">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%B %e, %Y" }}</span>
+      &raquo;
+      <a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
