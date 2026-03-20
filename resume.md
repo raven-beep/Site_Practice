@@ -12,7 +12,7 @@ title: "Resume"
 <br>
 details about the degree.
 <br>
-*Date Range*
+*Date Range Blah*
 
 ___
 
